@@ -1,0 +1,29 @@
+# Gradle / Android Studio
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+
+# Signing secrets — never commit
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+signing.properties
+*.pem
+*.key
+
+# Outputs
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db

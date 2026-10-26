@@ -1,0 +1,6 @@
+id=gammapad_airx_fix
+name=Mangmi Air X GammaPad Axis Calibration (experimental)
+version=0.1.0
+versionCode=1
+author=Custom patch for this console
+description=Independent min/center/max axis correction for GammaOS Next v1.2 AIR X. Matches the user supplied GammaPad ELF SHA256 only.
